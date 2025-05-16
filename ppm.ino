@@ -1,9 +1,4 @@
-//This source code can be found at the https://quadmeup.com/generate-ppm-signal-with-arduino/ site
-//I scooped it up and modified it. If you want the original source code, go to the site above,
-//download it, and customize it
 
-// PPM generator originally written by David Hasko
-// on https://code.google.com/p/generate-ppm-signal/ 
 #include <SPI.h>
 #include <RF24.h>
 
